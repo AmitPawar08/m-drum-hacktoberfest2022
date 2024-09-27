@@ -44,7 +44,7 @@ function makeSound(key) {
       tom4.play();
       break;
     case "j":
-      let crash = new Audio("sounds/crash.mp3");
+      let crash = new Audio("sounds/tom-4.mp3");
       crash.play();
       break;
     case "k":
